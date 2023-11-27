@@ -1,0 +1,25 @@
+Assignment 1:
+
+1.	C) 15
+2.	B) Filter
+3.	Tuple 
+4.	D) Error 
+5.	A) Raise 
+6.	C) datetime
+7.	C) 208
+8.	D) none 
+9.	B) immutable 
+10.	A) Range
+11.	C) Lambda Function 
+12.	C) Both A & B
+13.	B) Dump() Method
+14.	A) Load () 
+15.	D) All of the above
+16.	D) Both A & B 
+17.	D) Captain{}
+18.	captains["Enterprise"] = "Picard" 
+ 	captains["Voyager"] = "Janeway" 
+captains["Defiant"] = "Sisko"
+19.	B) for ship, captain in captains.items(): 
+print(f"The {ship} is captained by {captain}.")
+20.	C) del captains["Discovery"] 
